@@ -1,0 +1,14 @@
+.b1{
+    padding: 100px 50px;
+    transition-duration: 0.4s;
+}
+.b1:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
+.red {
+    background-color: red;
+    /* Add any other styling you want for the red button */
+  }
+
+  

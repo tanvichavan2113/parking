@@ -1,0 +1,20 @@
+/* Add some global styling, like resetting margin and padding on the body */
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Style for the map container */
+  .map-container {
+    width: 80%; /* Adjust the width as needed */
+    height: 500px; /* Adjust the height as needed */
+    margin: auto; /* Center the container horizontally */
+    padding: 20px; /* Add padding to the container */
+  }
+  
+  /* Add more specific styling for the map if needed */
+  .azure-map {
+    width: 100%;
+    height: 100%;
+  }
+  
